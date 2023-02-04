@@ -3,7 +3,7 @@ remote_theme: epidrome/cover-card@main
 
 # Title and tag line
 title: 'Evgenii Zhukov'
-description: 'I am amazing.'
+description: ''
 
 # Images
 avatar: 'avatar.jpg'
