@@ -12,10 +12,10 @@ favicon: 'favicon.ico'
 
 # Online profiles
 #dribbble: ''
-Facebook: 'evzhhh'
+facebook: 'evzhhh'
 twitter: ''
 #linkedin: ''
-Instagram: 'evzhhh'
+instagram: 'evzhhh'
 #pinterest: ''
 youtube: ''
 github-user: ''
@@ -32,10 +32,10 @@ tumblr: ''
 weibo: ''
 vk: ''
 blog_url: ''
-E-mail: 'me@evzhhh.com'
+email: 'me@evzhhh.com'
 messenger: ''
 
-social-links-order: [Facebook, Instagram, E-mail]
+social-links-order: [facebook, instagram, email]
 
 # Yaml manifest of supported social links
 # Requirements:
@@ -57,7 +57,7 @@ social-links-order: [Facebook, Instagram, E-mail]
 #     - defaults to `fab` style and uses value of `name` attribute (e.g. fab fa-2x fa-twitter)
 #     - **optional**
 social-links:
-  - name: Facebook
+  - name: facebook
     url-pattern: facebook.com/__USERNAME__
     icon-class: fab fa-2x fa-facebook-f
 
@@ -76,7 +76,7 @@ social-links:
   - name: weibo
     url-pattern: weibo.com/__USERNAME__
 
-  - name: Instagram
+  - name: instagram
     url-pattern: instagram.com/__USERNAME__
 
   - name: flickr
@@ -150,7 +150,7 @@ social-links:
     url-pattern: '__USERNAME__'
     icon-class: fas fa-2x fa-blog
 
-  - name: E-mail
+  - name: email
     url-scheme: 'mailto:'
     url-pattern: '__USERNAME__'
     icon-class: far fa-2x fa-envelope-open
