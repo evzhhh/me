@@ -35,7 +35,7 @@ blog_url: ''
 email: 'me@evzhhh.com'
 messenger: ''
 
-social-links-order: [facebook, instagram, linkedin, email]
+social-links-order: [facebook, instagram, linkedin, vk, email]
 
 # Yaml manifest of supported social links
 # Requirements:
