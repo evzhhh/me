@@ -13,7 +13,7 @@ favicon: 'favicon.ico'
 # Online profiles
 #dribbble: ''
 facebook: 'evgeniizhhh'
-twitter: ''
+twitter: 'evzhhh'
 linkedin: 'evzhhh'
 instagram: 'evzhhh'
 #pinterest: ''
@@ -35,7 +35,7 @@ blog_url: ''
 email: 'me@evzhhh.com'
 messenger: ''
 
-social-links-order: [facebook, instagram, linkedin, email]
+social-links-order: [facebook, instagram, email]
 
 # Yaml manifest of supported social links
 # Requirements:
